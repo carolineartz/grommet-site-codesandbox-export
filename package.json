@@ -1,0 +1,26 @@
+{
+  "name": "lpx0kqx7w9",
+  "description": null,
+  "version": "0.0.2",
+  "dependencies": {
+    "url-search-params": "0.10.0",
+    "styled-components": "2.4.0",
+    "react-router-dom": "4.2.2",
+    "react-formify": "0.1.0",
+    "react-dom": "16.2.0",
+    "react": "16.2.0",
+    "prop-types": "15.6.0",
+    "history": "4.7.2",
+    "grommet-icons": "0.14.0",
+    "grommet": "2.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
